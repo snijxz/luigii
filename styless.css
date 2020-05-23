@@ -1,0 +1,13 @@
+.discordtextt {
+    font-family: 'Bebas Neue', cursive;
+      display: inline-block;
+      align-content: center;
+    position: absolute;
+    top: 20%;
+    z-index: 20;
+    left: 56%;
+      margin: -100px 0 0 -150px;
+    text-align: center;
+    font-size: 300%;
+    color: #fff;
+  }
